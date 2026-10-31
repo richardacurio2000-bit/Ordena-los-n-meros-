@@ -38,7 +38,7 @@
 
   <div class="card">
     <label for="entrada"><b>Escribe tus números</b> (separados por espacios, punto y coma o saltos de línea)</label>
-    <textarea id="entrada">5 -3 1/3 0.75 0.(3) pi sqrt(2) sqrt(16) e -7/2 0 i -2i sqrt(-9) sqrt(-2) 2+3i 1/2-3/4i</textarea>
+    <textarea id="entrada"></textarea>
     <div class="row">
       <select id="orden">
         <option value="asc">Menor a mayor</option>
